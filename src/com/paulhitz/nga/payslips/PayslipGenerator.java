@@ -174,7 +174,6 @@ public class PayslipGenerator {
      */
     private static void displayVersionInfo() {
         System.out.println("NGA Dublin PCL to PDF converter, v1.0");
-        System.out.println("By Paul Hitz");
     }
 
     /**
